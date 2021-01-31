@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PPmenu2\PPmenu2\bin\Debug\PPmenu2.exe.config
+C:\Users\user\source\repos\PPmenu2\PPmenu2\bin\Debug\PPmenu2.exe
+C:\Users\user\source\repos\PPmenu2\PPmenu2\bin\Debug\PPmenu2.pdb
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.Form1.resources
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.Properties.Resources.resources
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.exe
+C:\Users\user\source\repos\PPmenu2\PPmenu2\obj\Debug\PPmenu2.pdb
